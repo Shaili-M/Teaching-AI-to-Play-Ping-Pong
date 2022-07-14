@@ -13,6 +13,8 @@ __Installation__
 4. Install Keras: `pip install keras`
 
 And now Run
-$ python pingpong.py
-#### To run the mountain car example (this takes 3-5 days to train)
+
     $ python pingpong.py
+    
+    
+#### To run the mountain car example (this takes 3-5 days to train)
