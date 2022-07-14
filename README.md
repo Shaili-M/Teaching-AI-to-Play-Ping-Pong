@@ -1,9 +1,9 @@
 # Teaching an AI to Play Ping Pong 🏓
 An exploration of how to use OpenAI Gym to teach an AI to play games, Atari Pong.
+![pong](https://user-images.githubusercontent.com/71213312/178934655-dd34076d-51af-47cd-8aaf-aa35092212e3.gif)
 
 
 #### Atari Pong:
-![mountain car](/2_ml/pong.gif)
 
 
 __Installation__
